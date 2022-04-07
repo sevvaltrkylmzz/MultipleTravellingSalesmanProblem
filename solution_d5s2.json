@@ -1,0 +1,39 @@
+{
+  "solution": [
+    {
+      "depot": "AFYON",
+      "routes": [
+        "MALATYA ELAZI? TUNCEL? ERZ?NCAN AMASYA KASTAMONU KARABÜK BARTIN ZONGULDAK SAKARYA B?LEC?K KÜTAHYA U?AK",
+        "ESK??EH?R KIR?EH?R NEV?EH?R N??DE ADANA ?ÇEL KARAMAN KONYA"
+      ]
+    },
+    {
+      "depot": "AKSARAY",
+      "routes": [
+        "MAN?SA ?ZM?R AYDIN MU?LA DEN?ZL? BURDUR ISPARTA ANTALYA",
+        "KAYSER?"
+      ]
+    },
+    {
+      "depot": "D?YARBAKIR",
+      "routes": [
+        "BATMAN S??RT B?TL?S MU?",
+        "?ANLIURFA ADIYAMAN OSMAN?YE HATAY K?L?S GAZ?ANTEP KAHRAMANMARA? S?VAS GÜMÜ?HANE BAYBURT ERZURUM B?NGÖL"
+      ]
+    },
+    {
+      "depot": "ANKARA",
+      "routes": [
+        "MARD?N ?IRNAK HAKKAR? VAN A?RI I?DIR KARS ARDAHAN ARTV?N R?ZE TRABZON G?RESUN ORDU SAMSUN ÇORUM YOZGAT",
+        "DÜZCE ?STANBUL TEK?RDA? KIRKLAREL? ED?RNE ÇANAKKALE BALIKES?R BURSA YALOVA KOCAEL? BOLU"
+      ]
+    },
+    {
+      "depot": "KIRIKKALE",
+      "routes": [
+        "TOKAT",
+        "ÇANKIRI"
+      ]
+    }
+  ]
+}
